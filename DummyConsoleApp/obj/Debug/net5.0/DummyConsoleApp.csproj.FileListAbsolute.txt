@@ -1,0 +1,16 @@
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\DummyConsoleApp.exe
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\DummyConsoleApp.deps.json
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\DummyConsoleApp.runtimeconfig.json
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\DummyConsoleApp.runtimeconfig.dev.json
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\DummyConsoleApp.dll
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\ref\DummyConsoleApp.dll
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\bin\Debug\net5.0\DummyConsoleApp.pdb
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.csproj.AssemblyReference.cache
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.AssemblyInfoInputs.cache
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.AssemblyInfo.cs
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.csproj.CoreCompileInputs.cache
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.dll
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\ref\DummyConsoleApp.dll
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.pdb
+E:\Ha\GitHub\DummyRepo\DummyConsoleApp\obj\Debug\net5.0\DummyConsoleApp.genruntimeconfig.cache
